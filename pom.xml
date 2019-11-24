@@ -42,7 +42,7 @@
 		<dependency>
 			<groupId>com.google.javascript</groupId>
 			<artifactId>closure-compiler</artifactId>
-			<version>r1918</version>
+			<version>v20151015</version>
 			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
@@ -398,7 +398,7 @@
 									</goals>
 								</pluginExecutionFilter>
 								<action>
-									<execute />
+									<execute/>
 								</action>
 							</pluginExecution>
 						</pluginExecutions>
